@@ -4,20 +4,20 @@
 
 </div>
 
-### `> sobre mim`
+### `> about me`
 
-Oi, eu sou o Pedro.
+Hey there, i am Pedro.
 
-Desenvolvedor em formação, movido por transformar ideias em código. Aprendo construindo: cada projeto é uma chance de entender melhor como as coisas funcionam por baixo dos panos.
+I'm a Systems Analysis and Development student who learns best by actually building things. Most of my time is spent writing code, exploring new tools, and digging into how software works under the hood.
 
-- Explorando novas tecnologias e boas práticas de desenvolvimento
-- Colocando a mão na massa para transformar estudo em projetos reais
-- Sempre em busca de evoluir um pouco mais a cada dia
-- Gosto de trocar ideias, aprender com outras pessoas e compartilhar o que descubro
+What I'm currently up to:
+• Building practical web applications and experimenting with dev tools
+• Turning concepts into working side projects
+• Always open to collaborating, swapping ideas, or learning something new
 
-Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/pedro-lira-aa38632b6/) ou no [Instagram](https://www.instagram.com/p_lira07/).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pedro-lira-aa38632b6/) ou no [Instagram](https://www.instagram.com/p_lira07/).
 
-### `> estatísticas`
+### `> statistics`
 
 <div align="center">
 
@@ -30,13 +30,13 @@ Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/pedro-lir
 
 </div>
 
-### `> contribuições`
+### `> contributions`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/liraboy/liraboy/output/snake.svg" alt="snake" />
 </div>
 
-### `> tecnologias`
+### `> technology`
 
 <div align="center">
 
